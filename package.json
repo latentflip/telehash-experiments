@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/latentflip/telehash-experiments#readme",
   "dependencies": {
+    "express": "^4.13.3",
     "telehash": "^0.3.31"
   }
 }
